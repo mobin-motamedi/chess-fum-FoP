@@ -1,4 +1,4 @@
-#chess-fum-FoP
+# chess-fum-FoP
 This project is a command-line Chess game written in C. It follows a modular design where separate files handle different aspects of the game. It was done for our Fundamentals of Programming class project
 
 Features:
