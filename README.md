@@ -7,4 +7,4 @@ Features:
 - Different piece functions than the original chess.
 
 
-by Mobin Motamedi(me) and [Mahdi Jafari](https://github.com/fpfhodor)
+by [Mobin Motamedi](https://github.com/mobin-motamedi) and [Mahdi Jafari](https://github.com/fpfhodor)
